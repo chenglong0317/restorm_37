@@ -1,2 +1,4 @@
 # restorm_37
-rk3588/3568 complete engineering code,Including performance testing and deployment.Implementing using Python.
+本项目使用python实现。其中功能包括性能测试，部署推理，附有其他重要的内容。可以参考。
+支持平台为rknn3568/rknn3588，以及ffmpeg硬解码。
+本代码和模型作了加密处理。需要测试的，可以去私信我。
